@@ -1,0 +1,6 @@
+routingkey 路由健：生产者将消息发送给交换机的时候，一般会指定一个routingkey，用来指定这个消息的规则，而这个rotingkey需要和交换机和bingkey联合使用才能最终生效。
+在交换机类型和绑定键都固定的情况下，生产者可以在发送消息给交换机时，通过指定的rotingkey来决定消息流向哪里。
+生产者将消息发送给交换机的时候，需要一个rotingkey，当bindingkey和rotingkey相匹配时，消息会被路由到相应的队列中。
+bindingkey并不是在所有的情况下生效，它依赖于交换机类型，如在fanout类型的交换机就会无视bingdingkey，而是将消息路由到队列中。
+
+

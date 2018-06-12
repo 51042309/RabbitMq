@@ -1,0 +1,11 @@
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.deps.json
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.runtimeconfig.json
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.runtimeconfig.dev.json
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.dll
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.csprojAssemblyReference.cache
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.csproj.CoreCompileInputs.cache
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.AssemblyInfoInputs.cache
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.AssemblyInfo.cs
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.pdb
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.dll
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.pdb

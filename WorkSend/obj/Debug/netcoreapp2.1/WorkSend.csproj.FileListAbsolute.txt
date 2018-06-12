@@ -1,0 +1,11 @@
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.deps.json
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.runtimeconfig.json
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.runtimeconfig.dev.json
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.dll
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.csprojAssemblyReference.cache
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.csproj.CoreCompileInputs.cache
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.AssemblyInfoInputs.cache
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.AssemblyInfo.cs
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.pdb
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.dll
+D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.pdb
