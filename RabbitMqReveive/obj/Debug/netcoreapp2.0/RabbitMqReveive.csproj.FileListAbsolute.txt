@@ -20,3 +20,14 @@ D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\Rabbit
 D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.AssemblyInfo.cs
 D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.dll
 D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.pdb
+G:\MyGitHub\RabbitMq\RabbitMqReveive\bin\Debug\netcoreapp2.0\RabbitMqReveive.deps.json
+G:\MyGitHub\RabbitMq\RabbitMqReveive\bin\Debug\netcoreapp2.0\RabbitMqReveive.runtimeconfig.json
+G:\MyGitHub\RabbitMq\RabbitMqReveive\bin\Debug\netcoreapp2.0\RabbitMqReveive.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\RabbitMqReveive\bin\Debug\netcoreapp2.0\RabbitMqReveive.dll
+G:\MyGitHub\RabbitMq\RabbitMqReveive\bin\Debug\netcoreapp2.0\RabbitMqReveive.pdb
+G:\MyGitHub\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.dll
+G:\MyGitHub\RabbitMq\RabbitMqReveive\obj\Debug\netcoreapp2.0\RabbitMqReveive.pdb

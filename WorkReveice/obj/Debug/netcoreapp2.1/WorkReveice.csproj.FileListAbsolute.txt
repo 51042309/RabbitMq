@@ -9,3 +9,14 @@ D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveic
 D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.pdb
 D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.dll
 D:\Code\MyGit\DotNetDemo\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.pdb
+G:\MyGitHub\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.deps.json
+G:\MyGitHub\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.runtimeconfig.json
+G:\MyGitHub\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.dll
+G:\MyGitHub\RabbitMq\WorkReveice\bin\Debug\netcoreapp2.1\WorkReveice.pdb
+G:\MyGitHub\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.dll
+G:\MyGitHub\RabbitMq\WorkReveice\obj\Debug\netcoreapp2.1\WorkReveice.pdb

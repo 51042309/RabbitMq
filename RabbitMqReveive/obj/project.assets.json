@@ -4186,23 +4186,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\VULCAN\\.nuget\\packages\\": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\MyGit\\DotNetDemo\\RabbitMq\\RabbitMqReveive\\RabbitMqReveive.csproj",
+      "projectUniqueName": "G:\\MyGitHub\\RabbitMq\\RabbitMqReveive\\RabbitMqReveive.csproj",
       "projectName": "RabbitMqReveive",
-      "projectPath": "D:\\Code\\MyGit\\DotNetDemo\\RabbitMq\\RabbitMqReveive\\RabbitMqReveive.csproj",
-      "packagesPath": "C:\\Users\\VULCAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\MyGit\\DotNetDemo\\RabbitMq\\RabbitMqReveive\\obj\\",
+      "projectPath": "G:\\MyGitHub\\RabbitMq\\RabbitMqReveive\\RabbitMqReveive.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "G:\\MyGitHub\\RabbitMq\\RabbitMqReveive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\VULCAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

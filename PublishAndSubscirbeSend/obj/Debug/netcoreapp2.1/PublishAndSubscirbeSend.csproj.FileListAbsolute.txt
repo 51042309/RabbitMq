@@ -1,0 +1,11 @@
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\bin\Debug\netcoreapp2.1\PublishAndSubscirbeSend.deps.json
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\bin\Debug\netcoreapp2.1\PublishAndSubscirbeSend.runtimeconfig.json
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\bin\Debug\netcoreapp2.1\PublishAndSubscirbeSend.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\bin\Debug\netcoreapp2.1\PublishAndSubscirbeSend.dll
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\obj\Debug\netcoreapp2.1\PublishAndSubscirbeSend.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\obj\Debug\netcoreapp2.1\PublishAndSubscirbeSend.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\obj\Debug\netcoreapp2.1\PublishAndSubscirbeSend.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\bin\Debug\netcoreapp2.1\PublishAndSubscirbeSend.pdb
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\obj\Debug\netcoreapp2.1\PublishAndSubscirbeSend.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\obj\Debug\netcoreapp2.1\PublishAndSubscirbeSend.dll
+G:\MyGitHub\RabbitMq\PublishAndSubscirbeSend\obj\Debug\netcoreapp2.1\PublishAndSubscirbeSend.pdb

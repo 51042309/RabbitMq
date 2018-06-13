@@ -43,6 +43,7 @@ namespace WorkReveice2
                     Console.WriteLine(" [x] Done");
 
                     channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
+                    Console.WriteLine(ea.DeliveryTag);
                 };
                 channel.BasicConsume(queue: "task_queue",
                                      autoAck: false,

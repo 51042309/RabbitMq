@@ -9,3 +9,14 @@ D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.Asse
 D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.pdb
 D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.dll
 D:\Code\MyGit\DotNetDemo\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.pdb
+G:\MyGitHub\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.deps.json
+G:\MyGitHub\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.runtimeconfig.json
+G:\MyGitHub\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.dll
+G:\MyGitHub\RabbitMq\WorkSend\bin\Debug\netcoreapp2.1\WorkSend.pdb
+G:\MyGitHub\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.dll
+G:\MyGitHub\RabbitMq\WorkSend\obj\Debug\netcoreapp2.1\WorkSend.pdb

@@ -20,3 +20,14 @@ D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqS
 D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.dll
 D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.pdb
 D:\Code\MyGit\DotNetDemo\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\RabbitMqSend\bin\Debug\netcoreapp2.0\RabbitMqSend.deps.json
+G:\MyGitHub\RabbitMq\RabbitMqSend\bin\Debug\netcoreapp2.0\RabbitMqSend.runtimeconfig.json
+G:\MyGitHub\RabbitMq\RabbitMqSend\bin\Debug\netcoreapp2.0\RabbitMqSend.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\RabbitMqSend\bin\Debug\netcoreapp2.0\RabbitMqSend.dll
+G:\MyGitHub\RabbitMq\RabbitMqSend\bin\Debug\netcoreapp2.0\RabbitMqSend.pdb
+G:\MyGitHub\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.dll
+G:\MyGitHub\RabbitMq\RabbitMqSend\obj\Debug\netcoreapp2.0\RabbitMqSend.pdb
