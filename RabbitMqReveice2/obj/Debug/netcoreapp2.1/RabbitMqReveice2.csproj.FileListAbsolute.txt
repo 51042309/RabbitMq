@@ -1,0 +1,11 @@
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\bin\Debug\netcoreapp2.1\RabbitMqReveice2.deps.json
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\bin\Debug\netcoreapp2.1\RabbitMqReveice2.runtimeconfig.json
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\bin\Debug\netcoreapp2.1\RabbitMqReveice2.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\bin\Debug\netcoreapp2.1\RabbitMqReveice2.dll
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\obj\Debug\netcoreapp2.1\RabbitMqReveice2.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\obj\Debug\netcoreapp2.1\RabbitMqReveice2.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\obj\Debug\netcoreapp2.1\RabbitMqReveice2.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\bin\Debug\netcoreapp2.1\RabbitMqReveice2.pdb
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\obj\Debug\netcoreapp2.1\RabbitMqReveice2.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\obj\Debug\netcoreapp2.1\RabbitMqReveice2.dll
+G:\MyGitHub\RabbitMq\RabbitMqReveice2\obj\Debug\netcoreapp2.1\RabbitMqReveice2.pdb

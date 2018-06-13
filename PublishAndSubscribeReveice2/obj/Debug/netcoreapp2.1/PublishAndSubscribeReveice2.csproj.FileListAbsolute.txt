@@ -1,0 +1,10 @@
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\bin\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.deps.json
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\bin\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.runtimeconfig.json
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\bin\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\bin\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.dll
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\bin\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.pdb
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.dll
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice2\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice2.pdb

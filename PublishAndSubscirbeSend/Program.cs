@@ -24,10 +24,14 @@ namespace PublishAndSubscirbeSend
                     channel.ExchangeDeclare(ExchangeName, "direct", false, false, null);
                     channel.QueueDeclare(QueueName, false, false, false, null);
                     channel.QueueBind(QueueName, ExchangeName, RouteKey, null);
-                    string message = "hello publish/subscirbe";
-                    var body = Encoding.UTF8.GetBytes(message);
-                    channel.BasicPublish(ExchangeName, RouteKey, false, null, body);
-                    Console.WriteLine("成功发送消息:{0}",message);
+                    for (int i = 0; i < 50; i++)
+                    {
+                        string message = "hello publish/subscirbe"+i;
+                        var body = Encoding.UTF8.GetBytes(message);
+                        channel.BasicPublish(ExchangeName, RouteKey, false, null, body);
+                        Console.WriteLine("成功发送消息:{0}", message);
+                    }
+                   
                 }
             }
             Console.WriteLine(" Press [enter] to exit.");

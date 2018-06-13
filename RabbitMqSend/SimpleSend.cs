@@ -21,15 +21,18 @@ namespace RabbitMqSend
                                  exclusive: false,
                                  autoDelete: false,
                                  arguments: null);
+            for (int i = 0; i < 50; i++)
+            {
+                string message = "Hello World!"+i;
+                var body = Encoding.UTF8.GetBytes(message);
 
-            string message = "Hello World!";
-            var body = Encoding.UTF8.GetBytes(message);
+                channel.BasicPublish(exchange: "",
+                                     routingKey: "hello",
+                                     basicProperties: null,
+                                     body: body);
+                Console.WriteLine(" [x] Sent {0}", message);
+            }
 
-            channel.BasicPublish(exchange: "",
-                                 routingKey: "hello",
-                                 basicProperties: null,
-                                 body: body);
-            Console.WriteLine(" [x] Sent {0}", message);
 
         }
     }

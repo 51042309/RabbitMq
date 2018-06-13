@@ -1,0 +1,11 @@
+G:\MyGitHub\RabbitMq\ConfirmPattern\bin\Debug\netcoreapp2.1\ConfirmPatternSend.deps.json
+G:\MyGitHub\RabbitMq\ConfirmPattern\bin\Debug\netcoreapp2.1\ConfirmPatternSend.runtimeconfig.json
+G:\MyGitHub\RabbitMq\ConfirmPattern\bin\Debug\netcoreapp2.1\ConfirmPatternSend.runtimeconfig.dev.json
+G:\MyGitHub\RabbitMq\ConfirmPattern\bin\Debug\netcoreapp2.1\ConfirmPatternSend.dll
+G:\MyGitHub\RabbitMq\ConfirmPattern\bin\Debug\netcoreapp2.1\ConfirmPatternSend.pdb
+G:\MyGitHub\RabbitMq\ConfirmPattern\obj\Debug\netcoreapp2.1\ConfirmPatternSend.csprojAssemblyReference.cache
+G:\MyGitHub\RabbitMq\ConfirmPattern\obj\Debug\netcoreapp2.1\ConfirmPatternSend.csproj.CoreCompileInputs.cache
+G:\MyGitHub\RabbitMq\ConfirmPattern\obj\Debug\netcoreapp2.1\ConfirmPatternSend.AssemblyInfoInputs.cache
+G:\MyGitHub\RabbitMq\ConfirmPattern\obj\Debug\netcoreapp2.1\ConfirmPatternSend.AssemblyInfo.cs
+G:\MyGitHub\RabbitMq\ConfirmPattern\obj\Debug\netcoreapp2.1\ConfirmPatternSend.dll
+G:\MyGitHub\RabbitMq\ConfirmPattern\obj\Debug\netcoreapp2.1\ConfirmPatternSend.pdb

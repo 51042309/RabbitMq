@@ -8,3 +8,4 @@ G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice\obj\Debug\netcoreapp2.1\PublishA
 G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice\bin\Debug\netcoreapp2.1\PublishAndSubscribeReveice.pdb
 G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice.dll
 G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice.pdb
+G:\MyGitHub\RabbitMq\PublishAndSubscribeReveice\obj\Debug\netcoreapp2.1\PublishAndSubscribeReveice.csprojAssemblyReference.cache
